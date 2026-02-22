@@ -148,6 +148,16 @@ SystemVerilog **functions** are used to encapsulate small, reusable combinationa
 ## 6. Simulation Results
 
 All modules were verified using a SystemVerilog testbench environment with directed and self-checking test cases covering both normal operation and corner cases.
+<img width="878" height="314" alt="image" src="https://github.com/user-attachments/assets/395def24-d494-401b-a335-c9914f2736ac" />
+<img width="887" height="417" alt="image" src="https://github.com/user-attachments/assets/f232a914-ee8e-4bd7-98fa-b6a36206eb12" />
+<img width="881" height="414" alt="image" src="https://github.com/user-attachments/assets/08276b53-e3cf-4e7f-89fc-1e696c99a9ee" />
+<img width="844" height="411" alt="image" src="https://github.com/user-attachments/assets/ae3c9696-2746-4587-85c6-7b8628b89b92" />
+<img width="876" height="370" alt="image" src="https://github.com/user-attachments/assets/d0fa96ed-6d61-417d-93f9-3ccd4d64e750" />
+
+<img width="590" height="61" alt="image" src="https://github.com/user-attachments/assets/11baea73-bbad-401a-971c-62db92c5830c" />
+
+
+<img width="1344" height="585" alt="image" src="https://github.com/user-attachments/assets/1196c22d-58ba-45b5-bf56-eb84a579dd1e" />
 
 ### 6.1 Verified Test Scenarios
 
