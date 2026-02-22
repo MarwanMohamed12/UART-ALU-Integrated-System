@@ -155,6 +155,7 @@ All modules were verified using a SystemVerilog testbench environment with direc
 <img width="876" height="370" alt="image" src="https://github.com/user-attachments/assets/d0fa96ed-6d61-417d-93f9-3ccd4d64e750" />
 
 <img width="590" height="61" alt="image" src="https://github.com/user-attachments/assets/11baea73-bbad-401a-971c-62db92c5830c" />
+<img width="866" height="145" alt="image" src="https://github.com/user-attachments/assets/fee2cfe6-c34d-466c-966c-0b73a9802ead" />
 
 
 <img width="1344" height="585" alt="image" src="https://github.com/user-attachments/assets/1196c22d-58ba-45b5-bf56-eb84a579dd1e" />
